@@ -4,10 +4,11 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #801706;
+	background: #DC0E06;
 }
 .container {
 	width: 1960px;
+	height: 1550px;
 	margin: 0 auto;
 }
 .header {
