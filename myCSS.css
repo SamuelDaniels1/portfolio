@@ -32,10 +32,10 @@ body {
 .content {
 	background: #DF382D;
 	margin: 0px;
-	padding: 5px;
 	float: left;
 	width: 100%;
-	text-align: left;
+	height: 400px;
+	text-align: center;
 }
 .footer {
 	background: #CC240A;
